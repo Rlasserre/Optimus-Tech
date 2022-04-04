@@ -1,0 +1,8 @@
+.about {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    height: 400px;
+    padding: 7rem 0;
+}
