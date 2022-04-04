@@ -1,4 +1,4 @@
 .menu__button--singUp {
-    background-color: #8E2424;
+    background-color: var(--main-color);
     color: #FFF;
 }
