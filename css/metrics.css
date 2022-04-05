@@ -1,0 +1,7 @@
+.metrics {
+    display: flex;
+    gap: 4rem;
+    justify-content: space-around;
+    padding: 3rem 0;
+    margin: 0 12.5%
+}

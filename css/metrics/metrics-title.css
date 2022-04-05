@@ -1,0 +1,5 @@
+.metrics__title {
+    color: var(--main-color);
+    font-weight: 600;
+    font-size: 3rem;
+}
