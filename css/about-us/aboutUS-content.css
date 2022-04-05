@@ -1,6 +1,6 @@
 .aboutUS__content {
     color: var(--text-color);
-    max-width: 50%;
+    font-size: 2rem;
+    max-width: 60%;
     text-align: center;
-    line-height: 1.5rem;
 }
