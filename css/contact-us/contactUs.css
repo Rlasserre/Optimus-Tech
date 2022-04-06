@@ -1,0 +1,10 @@
+.contactUs {
+    align-items: center;
+    background: #F9FAFB;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: space-around;
+    margin: 10rem;
+    padding: 6rem;
+}
