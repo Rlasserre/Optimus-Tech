@@ -1,0 +1,9 @@
+.testimony {
+    background-color: rgba(196, 25, 25, 0.05);
+    border-radius: 1.6rem;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 80%;
+
+}
