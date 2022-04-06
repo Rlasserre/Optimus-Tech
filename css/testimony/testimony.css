@@ -1,9 +1,9 @@
 .testimony {
-    align-items: center;
-    background: rgba(196, 25, 25, 0.03);
+    background-color: rgba(196, 25, 25, 0.05);
     border-radius: 1.6rem;
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
-    width: 100%;
+    margin: 0 auto;
+    width: 80%;
+
 }

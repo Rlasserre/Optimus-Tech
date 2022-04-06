@@ -1,0 +1,5 @@
+.avatar__info {
+    color: var(--text-color);
+    font-size: 1.4rem;
+    font-weight: 400;
+}
