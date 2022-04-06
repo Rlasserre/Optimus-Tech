@@ -1,0 +1,10 @@
+.job {
+    border: 0.1rem solid #EAECF0;
+    border-radius: 1.6rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin-bottom: 5rem;
+    padding: 1.5rem;
+    width: 80%;
+}

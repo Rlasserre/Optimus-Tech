@@ -1,12 +1,5 @@
 .hiring__image {
-    align-items: center;
-    justify-content: center;
-    max-width: 40%;
-    max-height: 20%;
-}
-
-image {
-    height: 20rem;
-    position: absolute;
-    width: 30rem;
+    background: url('../../assets/images/team.png') no-repeat center / cover;
+    height: 35rem;
+    width: 80%;
 }
