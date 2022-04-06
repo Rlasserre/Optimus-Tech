@@ -1,1 +1,8 @@
-.jobs__container {}
+.jobs__container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0 10rem;
+    padding: 0 20rem;
+}
