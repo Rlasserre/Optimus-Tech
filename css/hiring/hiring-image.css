@@ -1,0 +1,12 @@
+.hiring__image {
+    align-items: center;
+    justify-content: center;
+    max-width: 40%;
+    max-height: 20%;
+}
+
+image {
+    height: 20rem;
+    position: absolute;
+    width: 30rem;
+}

@@ -1,0 +1,8 @@
+.hiring {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    justify-content: space-around;
+    padding: 8rem;
+}
