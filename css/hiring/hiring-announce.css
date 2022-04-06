@@ -1,0 +1,11 @@
+.hiring__announce {
+    align-items: center;
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    color: var(--main-color);
+    display: flex;
+    font-size: 1.4rem;
+    height: 3rem;
+    justify-content: center;
+    width: 14rem;
+}
