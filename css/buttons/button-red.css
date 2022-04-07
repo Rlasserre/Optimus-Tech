@@ -1,0 +1,9 @@
+.button--red {
+    background-color: var(--main-color);
+    color: #FFFF;
+}
+
+.button--red:hover {
+    background-color: #FFFF;
+    color: var(--main-color);
+}
