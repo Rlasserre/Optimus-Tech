@@ -4,3 +4,7 @@
     margin-right: 2rem;
     font-size: 1.6rem;
 }
+
+.menu__links a:hover {
+    text-decoration: underline;
+}

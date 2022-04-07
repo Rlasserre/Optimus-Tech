@@ -8,3 +8,7 @@
     padding: 1.5rem;
     width: 80%;
 }
+
+.job:hover {
+    border-width: 0.2rem;
+}
