@@ -4,7 +4,8 @@
 
 ## Objetivo
 
-reproduzir uma página inteira utilizando Html e Css, reforçando conhecimento de flex.
+reproduzir uma página inteira utilizando Html e Css, reforçando conhecimento de flex, como o objetivo era apenas reproduzir o layout da página, não há a preocupação com 
+açoes do botões ou links bem como envio de formulários.
 
 ##Figma
 
